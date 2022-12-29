@@ -1,15 +1,10 @@
 
-## 👋 Olá, I'm Cristhian Vogel Carvalhaes
 
 [![GitHub Badge](https://img.shields.io/badge/-cristhianvogel-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/cristhianvogel/)](https://github.com/cristhianvogel)
 [![Linkedin Badge](https://img.shields.io/badge/-cristhianvogel-0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristhian-vogel-carvalhaes-54b61594/)](https://www.linkedin.com/in/cristhian-vogel-carvalhaes-54b61594)
 
-### 🔍 whoami
-
-- 💻 Electrical Engineer, Mechatronics Technician and studying MBA in Big Data and Machine Learning
-- 💬 Ask me about JavaScript, HTML5, CSS3, Python, SQL
-- 🧑‍💻 I'm focused on Back-end and Front-end development
-- 🌱 I'm learning NodeJs, React, Database, Django
+🧑‍💻 - HTML5, CSS3, JavaScript, Python, SQL
+🌱 - Learning NodeJS, React, Framework Django, Database
 
 <br/><br/>
 <div align="center">
