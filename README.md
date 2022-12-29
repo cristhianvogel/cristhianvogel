@@ -8,7 +8,8 @@
 
 - 💻 Electrical Engineer, Mechatronics Technician and studying MBA in Big Data and Machine Learning
 - 💬 Ask me about JavaScript, HTML5, CSS3, Python, SQL
-- 🌱 I'm learning NodeJs, React, Database
+- 🧑‍💻 I'm focused on Back-end and Front-end development
+- 🌱 I'm learning NodeJs, React, Database, Django
 
 <br/><br/>
 <div align="center">
